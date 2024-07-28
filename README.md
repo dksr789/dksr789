@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **deepaksingh95071@gmail.com**
 
-- 📄 Know about my experiences [https://recipahi.com/](https://recipahi.com/)
+- 📄 Know about my experiences [https://imagecompres.online/resize-image-to-20-kb.php](https://imagecompres.online/resize-image-to-20-kb.php)
 
 - ⚡ Fun fact **I think i am funny**
 
