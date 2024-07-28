@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://recipahi.com/](https://recipahi.com/)
+- 👨‍💻 All of my projects are available at [https://imagecompres.online/resize-image-to-20-kb.php](https://imagecompres.online/resize-image-to-20-kb.php)
 
-- 📝 I regularly write articles on [https://recipahi.com/](https://recipahi.com/)
+- 📝 I regularly write articles on [https://imagecompres.online/resize-image-to-20-kb.php](https://imagecompres.online/resize-image-to-20-kb.php)
 
 - 💬 Ask me about **MERN, AWS, DIGITALOCEAN, AZURE, HTM5, CSS3, JAVASCRIPT,PHP,MONGODB,FIREBASE,NODEJS,**
 
